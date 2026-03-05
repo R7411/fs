@@ -124,7 +124,7 @@ const textNodes = [
     },
     {
         id: 908,
-        text: 'Various items prime for strenthening you are scattered across many lands, prepare for cobwebs and crawlers.',
+        text: 'Various items prime for strenthening you are scattered across many lands, choose your destination carefully.',
         options: [{
                 text: 'go to the enchanted forest',
                 nextText: 9010
@@ -267,7 +267,7 @@ const textNodes = [
     },
     {
         id: 9011,
-        text: 'A squad of archers line their bows at you.',
+        text: 'A squad of archers draws their bows at you.',
         options: [
             {
                 text: 'magic blast',
@@ -633,4 +633,5 @@ const textNodes = [
 
 
 startGame()
+
 
