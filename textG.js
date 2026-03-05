@@ -398,8 +398,7 @@ const textNodes = [
         ]
     },
     {
-        id:12,
-        text: 'You found the void ring and the soul amulet, as part of the knighhts code you can only choose to use on the field and give the other one to H.Q. Choose one to equip.',
+        id:1the        text: 'You found the void ring and the soul amulet. As fieldrt of the knights code you can only choose one to use on the field and leave the other one to H.Q. Choose one to equip.',
         options:
         [
             {
@@ -427,8 +426,7 @@ const textNodes = [
     },
     {
         id:14,
-        text:'You returned to H.Q. Now that you retrieved an item heading to either the ferocius wolf or bird',
-        options: [
+        text:'You returned to H.Q. Now that you retrieved an item heading to either the ferocius wolf or ghost would be knighhts        options: [
             {
                 text: 'Hunt down the Wolf',
                 nextText:15
@@ -635,3 +633,4 @@ const textNodes = [
 
 
 startGame()
+
