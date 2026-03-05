@@ -427,7 +427,7 @@ const textNodes = [
     },
     {
         id:14,
-        text:'You returned to H.Q. Now tht you retieved an item heading to either the furocius wolf or bird',
+        text:'You returned to H.Q. Now that you retrieved an item heading to either the ferocius wolf or bird',
         options: [
             {
                 text: 'Hunt down the Wolf',
@@ -632,5 +632,6 @@ const textNodes = [
         ]
     }
 ]
+
 
 startGame()
