@@ -194,7 +194,7 @@ const textNodes = [
             },
             {
                 text: 'Dragon rush',
-                requiredState:(currentState) => currentState.dragoneBoneAxe,
+                requiredState:(currentState) => currentState.dragonBoneAxe,
                 nextText: 914
             }
         ]
@@ -633,5 +633,6 @@ const textNodes = [
 
 
 startGame()
+
 
 
